@@ -45,6 +45,11 @@ Make a system which tells whether the person will be save from sinking. What fac
    - st.slider(): Slider for numerical input (Age, Siblings Aboard).
    - st.number_input(): Numeric input (Fare paid).
    - st.button("Predict Survival"): Adds a button to trigger prediction.
+  
+   #### How to Copy Paste Emojis for Your Code
+   - Copy from an Emoji Website: Emojipedia or Get Emoji 
+   - Click Copy
+   - Paste it into your Python code
 
 8. Predict survival
    When the "Predict Survival" button is clicked
