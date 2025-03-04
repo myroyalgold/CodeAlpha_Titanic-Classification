@@ -74,3 +74,8 @@ Make a system which tells whether the person will be save from sinking. What fac
 
 10. Visualize Feature Importance
     - Shows which features (age, fare, class, etc.) were most important in predicting survival.
+   
+## STEPS TO RUN STREAM LIT APP
+- Open your Anaconda Prompt if you have Anaconda installed on your system or Command Prompt
+- Navigate to your script’s folder
+- Run the Streamlit app: after locating the folder, type (streamlit run titanicc_app.py).
